@@ -1,4 +1,4 @@
-**Our code will be available if the paper is accepted.**
+**This repository is no longer maintained, all migrated to [BSDA](https://github.com/YaoyaoZhu19/BSDA).**
 
 # BRSDA
 
